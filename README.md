@@ -5,6 +5,7 @@ Combining them with LFS76 feature set, you can get the ELFS124 feature set.
 
 Please cite our paper if you use this code in your work. 
 The bibtex is as follows.
+
 @inproceedings{li20183d,
   title={3D steganalysis using the extended local feature set},
   author={Li, Zhenyu and Gong, Daofu and Liu, Fenlin and Bors, Adrian G},
